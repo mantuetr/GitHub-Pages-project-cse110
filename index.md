@@ -8,7 +8,7 @@ My name is **Lisa**. I'm originally from *Vietnam*, and I live in *Seattle* now.
 > `Love yourself`
 
 ## Links
-My old APP [Calorie Control](#https://studio.code.org/projects/applab/H_jj_i_VnZEYVdx-AsriEwYBsIsCLCOMvEw7VYqotjA?qr=true)
+My old APP [Calorie Control](https://studio.code.org/projects/applab/H_jj_i_VnZEYVdx-AsriEwYBsIsCLCOMvEw7VYqotjA?qr=true)
 
 Section Link back to [About Me](#about-me)
 
