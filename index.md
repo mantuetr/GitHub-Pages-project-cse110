@@ -10,9 +10,9 @@ My name is **Lisa**. I'm originally from *Vietnam*, and I live in *Seattle* now.
 ## Links
 My old APP [Calorie Control] (#https://studio.code.org/projects/applab/H_jj_i_VnZEYVdx-AsriEwYBsIsCLCOMvEw7VYqotjA?qr=true)
 
-Section Link back to [About Me] (#about-me)
+Section Link back to [About Me](#about-me)
 
-Relative Link to [README.md] (main/README.md)
+Relative Link to [README.md](README.md)
 
 ## Lists
 
