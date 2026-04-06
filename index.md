@@ -1,7 +1,7 @@
 # About Me
 My name is **Lisa**. I'm originally from *Vietnam*, and I live in *Seattle* now. I'm a ~~sophomore~~ at UCSD, majoring in ***CS***. 
 
-## Me All The Time
+## Me ALL The Time
 
 ![huh](https://www.highlandernews.org/wp-content/uploads/2016/02/ops.meme_.nba_.jpg)
 ## Quoting
@@ -29,6 +29,6 @@ Relative Link to [README.md] (main/README.md)
 ## Task Lists
 
 - [x] Lab1
-- [ ] Proj0
+- [x] Proj0
 - [x] Sign-up Slack
 - [ ] Survey 
